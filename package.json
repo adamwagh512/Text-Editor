@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adamwagh512/Text-Editor/issues"
   },
-  "homepage": "https://github.com/adamwagh512/Text-Editor#readme"
+  "homepage": "https://github.com/adamwagh512/Text-Editor#readme",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
 }
